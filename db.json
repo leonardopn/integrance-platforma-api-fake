@@ -1,3 +1,44 @@
 {
-    "employees": [{ "name": "Leonardo Petta do Nascimento" }]
+    "employees": [
+        {
+            "name": "Leonardo Petta do Nascimento",
+            "cpf": "473.382.048-88",
+            "email": "leonardocps9@gmail.com",
+            "function": "Desenvolvedor",
+            "birthday": "09/10/2000",
+            "createdDate": "19/01/2022"
+        },
+        {
+            "name": "FRANCISCO FREITAS CARDOSO",
+            "cpf": "249.031.351-79",
+            "email": "jose@jose.com.br",
+            "function": "Analista FIscal",
+            "birthday": "19/01/1986",
+            "createdDate": "20/01/2022"
+        },
+        {
+            "name": "PAULO GOMES BORGES",
+            "cpf": "394.817.876-30",
+            "email": "paulo@paulo.com.br",
+            "function": "Caixa",
+            "birthday": "19/01/1991",
+            "createdDate": "20/01/2022"
+        },
+        {
+            "name": "PEDRO CARVALHO NUNES",
+            "cpf": "676.200.747-32",
+            "email": "pedro@pedro.com.br",
+            "function": "Analista de contratos",
+            "birthday": "19/01/1998",
+            "createdDate": "20/01/2022"
+        },
+        {
+            "name": "LUIZ BARROS TEIXEIRA",
+            "cpf": "676.200.747-32",
+            "email": "luiz@luiz.com.br",
+            "function": "Vendedor",
+            "birthday": "19/01/1999",
+            "createdDate": "20/01/2022"
+        }
+    ]
 }
